@@ -1,2 +1,2 @@
 # Practical_XAI
-Speed practical XAI experiments for the easy to learn (app. 30 min) XAI python libraries 
+Speed up practical XAI experiments with easy-to-learn (approx. 30 min) XAI Python libraries. 
